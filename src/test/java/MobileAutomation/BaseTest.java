@@ -34,7 +34,7 @@ public class BaseTest {
 		
 		UiAutomator2Options options = new UiAutomator2Options();
 		options.setDeviceName("OnePlus LE2101");
-		options.setApp("C://Users//etesh//eclipse-workspace//MobileAutomation//src//test//java//resources//ApiDemos-debug.apk");
+		options.setApp("C://Users//etesh//git//AppiumAutomation//MobileAutomation//src//test//java//resources//ApiDemos-debug.apk");
 		
 		
 		
